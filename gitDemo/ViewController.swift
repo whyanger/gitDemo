@@ -18,7 +18,7 @@ class ViewController: UIViewController {
 
     
     @IBAction func touchUpExample(_ sender: UIButton) {
-        print("this is a git example")
+        print("You finished!")
         
     }
     
